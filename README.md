@@ -1,8 +1,9 @@
+
+
+<div align="center">
 <p align="center">
   <img src="banner.png" alt="Prince Kumar Banner" width="100%">
 </p>
-
-<div align="center">
 
 # Hi 👋, I'm Prince Kumar
 
