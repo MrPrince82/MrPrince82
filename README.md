@@ -4,7 +4,7 @@
 
 ### 🎓 MCA Student | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+MERN+Stack;Learning+Data+Structures+%26+Algorithms;Building+Real-World+Projects;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;" />
 
 </div>
 
