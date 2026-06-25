@@ -42,18 +42,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrPrince82&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrince82&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrPrince82&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
