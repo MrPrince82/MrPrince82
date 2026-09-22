@@ -44,7 +44,7 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/prince-kumar-3a2060236/
-- 📧 Email: choudharyprince@gmail.com
+- 📧 Email: choudharyprince125@gmail.com
 
 ---
 
